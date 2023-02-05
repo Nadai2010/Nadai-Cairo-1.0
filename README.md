@@ -526,16 +526,16 @@ En el caso de `match_1.cairo` podremos pasar para imprimir el resultado en nuest
 cargo run --bin cairo-run -- -p ./src/match/match_1.cairo
 ```
 
-![Graph](imágenes/match.png)
+![Graph](imágenes/match1.png)
 
 ## Autores y agredecimentos ✨
 
 <table>
   <tbody>
     <tr>
-      <td align="center" valign="top" width="14.28%"><a href="https://twitter.com/dpinoness"><img src="https://pbs.twimg.com/profile_images/1587466995762618369/lTHHd9UL_400x400.jpg" width="100px;" alt="dpinones "/><br /><sub><b>@dpinoness</b></sub></a><br /><a href="https://twitter.com/dpinoness" title="Twitter"></a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://twitter.com/dub_zn"><img src="https://twitter.com/dub_zn/photo" width="100px;" alt="dub "/><br /><sub><b>@otroperfil</b></sub></a><br /><a href="https://twitter.com/dub_zn" title="Twitter"></a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://twitter.com/StarkNetEs"><img src="https://twitter.com/StarkNetEs/photo" width="100px;" alt="ultimoPerfil "/><br /><sub><b>@ultimoPerfil</b></sub></a><br /><a href="https://twitter.com/StarkNetEs" title="Twitter"></a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://twitter.com/dpinoness"><img src="imágenes/dami.jpg" width="100px;" alt="dpinones "/><br /><sub><b>@dpinoness</b></sub></a><br /><a href="https://twitter.com/dpinoness" title="Twitter"></a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://twitter.com/dub_zn"><img src="imágenes/dub.jpg" width="100px;" alt="dub "/><br /><sub><b>@otroperfil</b></sub></a><br /><a href="https://twitter.com/dub_zn" title="Twitter"></a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://twitter.com/StarkNetEs"><img src="imágenes/starknetes.jpg" width="100px;" alt="ultimoPerfil "/><br /><sub><b>@ultimoPerfil</b></sub></a><br /><a href="https://twitter.com/StarkNetEs" title="Twitter"></a></td>
     </tr>
   </tbody>
 </table>
