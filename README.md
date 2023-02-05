@@ -16,7 +16,7 @@ Aquí hay veremos algunos ejemplos simples para mostrarle cómo funciona Cairo 1
 Recuerde que todas estas pruebas son experimentales, primero clone la repo:
 
 ```bash
-
+gh repo clone Nadai2010/Nadai-Cairo-1.0
 ```
 
 
