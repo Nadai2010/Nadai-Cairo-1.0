@@ -534,8 +534,8 @@ cargo run --bin cairo-run -- -p ./src/match/match_1.cairo
   <tbody>
     <tr>
       <td align="center" valign="top" width="14.28%"><a href="https://twitter.com/dpinoness"><img src="imágenes/dami.jpg" width="100px;" alt="dpinones "/><br /><sub><b>@dpinoness</b></sub></a><br /><a href="https://twitter.com/dpinoness" title="Twitter"></a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://twitter.com/dub_zn"><img src="imágenes/dub.jpg" width="100px;" alt="dub "/><br /><sub><b>@otroperfil</b></sub></a><br /><a href="https://twitter.com/dub_zn" title="Twitter"></a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://twitter.com/StarkNetEs"><img src="imágenes/starknetes.jpg" width="100px;" alt="ultimoPerfil "/><br /><sub><b>@ultimoPerfil</b></sub></a><br /><a href="https://twitter.com/StarkNetEs" title="Twitter"></a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://twitter.com/dub_zn"><img src="imágenes/dub.jpg" width="100px;" alt="dub "/><br /><sub><b>@dub_zn</b></sub></a><br /><a href="https://twitter.com/dub_zn" title="Twitter"></a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://twitter.com/StarkNetEs"><img src="imágenes/starknetes.jpg" width="100px;" alt="starknetes"/><br /><sub><b>@StarkNetEs</b></sub></a><br /><a href="https://twitter.com/StarkNetEs" title="Twitter"></a></td>
     </tr>
   </tbody>
 </table>
